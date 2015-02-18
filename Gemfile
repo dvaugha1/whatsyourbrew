@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
-
+# Add pagination
+gem 'kaminari'
 # Add Authentication
 gem 'devise'
 # Add images
